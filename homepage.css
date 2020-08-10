@@ -1,0 +1,22 @@
+#title {
+	font-family: 'Be Vietnam', sans-serif;
+	text-align: center;
+	letter-spacing: 2px;
+}
+
+img {
+	display: block;
+	width: 680px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#mission {
+	display: flex;
+	justify-content: center;
+	font-family: 'Be Vietnam', sans-serif;
+	letter-spacing: 2px;
+	text-align: center;
+	text-decoration: none;
+	color:black;
+}

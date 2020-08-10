@@ -1,0 +1,45 @@
+#title {
+	font-family: 'Be Vietnam', sans-serif;
+	text-align: center;
+	letter-spacing: 2px;
+}
+
+p {
+	text-align: center;
+}
+
+.lower-header {
+	font-family: 'Be Vienam', sans-serif;
+	letter-spacing: 2px;
+}
+
+.container {
+	font-family: 'Nanum Myeongjo', serif;
+	font-size: 23px;
+	width: 650px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#arrow {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none; 
+    color: black;
+}
+
+#video {
+	position: absolute;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+#text {
+	position: relative;
+	z-index: 2;
+}
